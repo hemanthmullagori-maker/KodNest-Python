@@ -3,7 +3,7 @@
 ## My Name
 
 Write your name.
-mullaguri Hemanth kumar 
+Mullaguri Hemanth kumar 
 ## What I Learned in Foundation Month
 
 Write at least three things you learned.
