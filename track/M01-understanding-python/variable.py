@@ -11,7 +11,7 @@ print("my name is" + name +" and age is" + str(age)+"!")
 print(f"my name is {name} and age is{age}!")
 mark= 50
 mark= mark+10
-print(msrk)
+print(mark)
 a,b,c=10,20,30
 print(a,b,c)
 print(x+y+z)
